@@ -1,4 +1,4 @@
-# mousecontrolusinghandgesturewithpython
+# mouse control using hand gesture with python
 This python code helps you to control your mouse using hand gestures but 
 After installing python open CMD in your windows or if you have mac open TERMINAL then install the following things:
 
